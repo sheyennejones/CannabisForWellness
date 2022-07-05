@@ -1,11 +1,11 @@
 h1 {
-  color:olivedrab;
+  color: olivedrab;
   text-transform: uppercase;
-  
+
 }
 
 body {
-  margin: 25px; 
+  margin: 25px;
 
 }
 
@@ -14,7 +14,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  
+
 }
 
 nav {
@@ -38,6 +38,3 @@ section {
   align-items: center;
   justify-content: center;
 }
-
-
-
