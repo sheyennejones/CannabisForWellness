@@ -43,6 +43,10 @@ a {
   color: darkgreen
 }
 
+a:hover {
+  color: darkorange;
+}
+
 /* .accordion-button.collapsed {
   background: rgb(163, 192, 163)
 } */
